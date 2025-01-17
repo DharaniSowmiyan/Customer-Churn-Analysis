@@ -1,10 +1,10 @@
 
-![Screenshot 2025-01-17 125719](https://github.com/user-attachments/assets/20125861-cfaf-439b-a0e2-1c1b0d6bfb1b)
-![Screenshot 2025-01-17 125942](https://github.com/user-attachments/assets/0b2f1514-d918-4ae7-9121-b61fbddf48c6)
 # Customer-Churn-Analysis
 Customer churn represents a significant challenge for businesses, often signaling gaps in customer satisfaction or engagement. This project tackles churn analysis with a modern data-driven approach, combining SQL Server, Power BI, and Python to uncover trends, predict churn, and provide actionable insights for retention strategies.
 
 
+![Screenshot 2025-01-17 125719](https://github.com/user-attachments/assets/20125861-cfaf-439b-a0e2-1c1b0d6bfb1b)
+![Screenshot 2025-01-17 125942](https://github.com/user-attachments/assets/0b2f1514-d918-4ae7-9121-b61fbddf48c6)
 Project Target
 =
 
